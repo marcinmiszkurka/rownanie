@@ -1,4 +1,4 @@
-<h1>Nagłówek pierwszego poziomu</h1>
+<h1>Program rozwiązuje równania kwadratowe typu y = ax² + bx +c</h1>
 ******************************************
 <h2>Nagłówek drugiego poziomu</h2>
 -----------------------------------
