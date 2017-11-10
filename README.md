@@ -2,7 +2,6 @@
 <h1>typu y = ax² + bx +c</h1>
 ****************************************************************************************************
 <h2>Nagłówek drugiego poziomu</h2>
-<h2>To jest H2 w bloku cytatu</h2>
 -----------------------------------
 <p>Now is the time for all good men to come to
 the aid of their country. This is just a
