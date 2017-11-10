@@ -1,8 +1,7 @@
 <h1>Nagłówek pierwszego poziomu</h1>
-=====================================
+******************************************
 <h2>Nagłówek drugiego poziomu</h2>
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+-----------------------------------
 <p>Now is the time for all good men to come to
 the aid of their country. This is just a
 regular paragraph.</p>
