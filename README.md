@@ -35,7 +35,7 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
 	{
 	printf("\n Δ < 0 brak rozwiazan dla takiego rownania \n");
 	}
-### Jęsli delta jest większa od zera otrzymujemy dwa rozwiązania tego równania: x1, x2. Używamy funkcji "else if", "puts", "printf", "sqrt"( oblicza pierwiastek z delty).
+### Jęsli delta jest większa od zera otrzymujemy dwa rozwiązania tego równania: x1, x2.Podajemy wzór i wartości. Używamy funkcji "else if", "puts", "printf", "sqrt"( oblicza pierwiastek z delty).
 	>else if (delta > 0)
 	{
 	puts("Δ > o rownanie ma 2 rozwiazania \nx1 = (-b – √Δ) / (2a)");
