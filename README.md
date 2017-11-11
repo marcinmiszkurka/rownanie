@@ -13,7 +13,11 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
     >int main().
     >{   
 ### Używając funkcji "puts" wyświetlamy na ekranie nazwe programu
-
+	>puts("************************************************************************");
+	puts("************************************************************************");
+	puts("****Witam, zapraszam do wspólnego rozwiazywania równań kwadratowych*****");
+	puts("****************y = ax² + bx +c*****************************************");
+	puts("************************************************************************");
 ### Dane wejściowe programu funkcja "double"(typ zmiennopozycyjny podwójnej precyzji).
     > double a, b, c, delta, x0, x1, x2;
 #### Wprowadzenie danych wejściowych przy użyciu funkcji "print"i "scanf".
