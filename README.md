@@ -6,7 +6,9 @@
 <h3>Nagłówek 3.</h3>
 
 <blockquote>
-    <p>To jest blok cytatu.</p>
+    <p>#include <stdio.h>
+#include <stdlib.h>
+#include <math.h></p>
 
     <p>To jest drugi akapit w bloku cytatu.</p>
 
