@@ -6,11 +6,10 @@
 <h3>Biblioteki.</h3>
 
 <Biblioteki>
-    <p>#include <stdio.h> </p>
-    <p>#include <stdlib.h> </p>
-    <p>#include <math.h> </p>
+    <h2>#include <stdio.h> </h2>
+    <h2>#include <stdlib.h> </h2>
+    <h2>#include <math.h> </h2>
+ <p>To jest drugi akapit w bloku cytatu.</p>
 
-    <p>To jest drugi akapit w bloku cytatu.</p>
-
-    <h2>To jest H2 w bloku cytatu</h2>
+<h2>To jest H2 w bloku cytatu</h2>
 </blockquote>hfgbbb b 
