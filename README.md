@@ -20,3 +20,6 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
         scanf("%lf", &b);
 	printf(" \n Wpisz wartość c:\n ");
         scanf("%lf", &c);
+### Obliczenie delty.
+	>delta =pow(b,2) - 4*a*c;
+	
