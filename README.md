@@ -1,7 +1,7 @@
 Program rozwiązuje równania kwadratowe
 ===========================================================================================================
 typu y = ax² + bx +c
--------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 Autor Soborski Dariusz 4.11.2017 Warszawa.
 ### Uwaga podczas kompilacji na Ubuntu dodajemy flagę  -lm która uruchomi biblioteki <math.h> odpowiedzialne za potęgowanie i pierwiastkowanie. 
     >gcc rownanie.c -o rownanie.o -lm
@@ -12,7 +12,7 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
 ### Funkcja główna.        
     >int main().
     >{    
-### Dane wejściowe programu.
+### Dane wejściowe programu funkcja "double"(typ zmiennopozycyjny podwójnej precyzji).
     > double a, b, c, delta, x0, x1, x2;
 #### Wprowadzenie danych wejściowych przy użyciu funkcji "print"i "scanf".
     	>printf(" \n Wpisz wartość a:\n ");
@@ -51,7 +51,7 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
           printf("Δ = 0 mamy tlko jedno rozwiazanie tego rownania \nx0 = -b/(2*a) \n");
           x0 =(-b) / (2*a);
           printf("x0 = %f\n", x0);
-         }
+         }}
 ### Może się zdarzyć, że ktoś poda wartość a zero nie będzie to równanie kwadratwe. Używamy funkcji "else", "printf"
 	>else
 	{
