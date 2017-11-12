@@ -17,9 +17,9 @@ gcc nazwa.c -o nazwa.o -lm */
         scanf("%lf", &b);
 	printf(" \n Wpisz wartość c:\n ");
         scanf("%lf", &c);
-	delta =pow(b,2) - 4*a*c;        /*obliczenie delty*/
-	 if (a!=0)
-	{		puts("\t\t Δ = b² – 4ac");
+	if (a!=0)
+	{		delta =pow(b,2) - 4*a*c;        /*obliczenie delty*/
+		 	puts("\t\t Δ = b² – 4ac");
 			printf("Po podstawieniu do wzoru Δ = %f \n ", delta);
 	 			if (delta < 0)
 				{
