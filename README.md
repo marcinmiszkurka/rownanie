@@ -27,11 +27,11 @@ Autor Soborski Dariusz 4.11.2017 Warszawa.
         scanf("%lf", &b);
 	printf(" \n Wpisz wartość c:\n ");
         scanf("%lf", &c);
-### Obliczenie delty używając funkcji pow (potęgowanie) z biblioteki <math.h>.
-	>delta =pow(b,2) - 4*a*c;
 ### Możemy dalej przejść jeśli wartość a jest różna od zera. Używając funkcji warunkowej "if".
 	>if (a!=0)
 	{
+### Obliczenie delty używając funkcji pow (potęgowanie) z biblioteki <math.h>.
+	>delta =pow(b,2) - 4*a*c;
 ### Używając funkcji "puts" wyświetlamy na ekranie wzór na obliczenie delty.
 	>puts("\t\t Δ = b² – 4ac");
 ### Używając funkcji "printf" program podaje wartość obliczonej delty na podstwie danych wejściowych a, b, c.
