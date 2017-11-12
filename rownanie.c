@@ -3,7 +3,7 @@
 #include <math.h>
 int main()
 {
-/* podczas kompilacji dodajemy flagę  -lm która uruchomi #include <math.h>
+/* podczas kompilacji na Ubuntu dodajemy flagę  -lm która uruchomi #include <math.h>
 gcc nazwa.c -o nazwa.o -lm */
 	puts("************************************************************************");
 	puts("************************************************************************");
